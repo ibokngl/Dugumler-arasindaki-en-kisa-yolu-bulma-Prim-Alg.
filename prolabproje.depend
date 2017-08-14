@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461144421 source:c:\users\ibokan\desktop\prolabproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
